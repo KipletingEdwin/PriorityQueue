@@ -9,6 +9,8 @@ public class Main {
         Queue<Double> queue = new LinkedList<>();
 
         queue.offer(3.0);
+        queue.offer(2.5);
+
 
 
     }
